@@ -7,13 +7,7 @@
 
 ---
 
-<h3 align="left">🌐 Connectez-vous avec moi:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/baptistemarcoux" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <!-- Ajoute ici d'autres liens comme GitHub, portfolio, etc. -->
-</p>
+
 
 ---
 
